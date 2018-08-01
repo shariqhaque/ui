@@ -1,0 +1,17 @@
+.App {
+  height: 100%;
+  min-height: 400px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  margin: 20px;
+}
+
+.dashbaordTable {
+  margin-top: 20px;
+}
+
+.formGroup {
+  margin-bottom: 10px;
+}
